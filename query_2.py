@@ -12,4 +12,4 @@ results = cur.execute('''
 for result in results:
     print(result)
 
-con.close()  
+con.close()
